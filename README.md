@@ -34,10 +34,8 @@ pip install pydicom nibabel numpy
 2. **Run the Conversion Script**:
 
    ```bash
-   python main.py /path/to/dicom_directory /path/to/output_directory
+   python main.py msd
    ```
-
-   Replace `/path/to/dicom_directory` with the path to your directory containing DICOM files, and `/path/to/output_directory` with the desired directory for the output NIfTI files.
 
 ## Script Overview
 
