@@ -60,9 +60,3 @@ For further information and advanced usage, please refer to the script [`main.py
 
 *Note: Ensure that your DICOM files are organized appropriately, and the output directory exists before running the script.*
 """
-
-# Write the README content to a file
-with open("README.md", "w") as f:
-    f.write(readme_content)
-
-print("README.md file has been generated successfully.")
