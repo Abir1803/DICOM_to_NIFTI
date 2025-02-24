@@ -1,4 +1,4 @@
-# FLAP_Segmentation
+# DICOM_to_NIFTI
 
 This repository contains a Python script designed to convert medical imaging data from DICOM format to NIfTI format. This conversion facilitates easier handling and analysis of medical images in various research and clinical applications.
 
